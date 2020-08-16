@@ -4,7 +4,7 @@ description: >- # site description
   He's Cyber Securtiy enthusiast, web developer and experience as a data bases, Network security, Application security and Cloud security.
   for meet him <a href="https://github.com/sk0x1234" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
-timezone: New_Yoek/Jakarta # set your timezone
+timezone: New_Yoek/America # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/sk0x1234/dev-ii-web # site repo [optional]
 mode: dark # default theme "dark" | "light"
