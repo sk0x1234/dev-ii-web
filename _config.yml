@@ -1,29 +1,29 @@
 # Site settings
-title: Klise Theme # site title
+title: Srinath Koilakonda # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  He's Cyber Securtiy enthusiast, web developer and experience as a data bases, Network security, Application security and Cloud security.
+  for meet him <a href="https://github.com/sk0x1234" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: New_Yoek/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/sk0x1234/dev-ii-web # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: NAME # author name
+  name: Srinath Koilakonda # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # author username
-  github: sk0x1233
-  twitter: twitter_username
-  facebook: facebook_username
-  email: my@gmail.com # your contact adress
+    Hi, My name is Srinath. I am an aspiring Cloud application Security Engineer. I have  a Masters in information security & privacy from NJIT Newark.  I have joined SeedStages as a Security Intern role to contribute and learn. Hit me up with anything interestings about Science , Space & Security.
+What I do for fun? play football and chess. <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+  username: sk0x1234 # author username
+  github: sk0x1234
+  twitter: s_koilakonda
+  facebook: srinath-koilakonda
+  email: srinath.koilakonda@gmail.com # your contact adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
-url: "https://klise.now.sh"
+url: "https://sk0x1234.netlify.com"
 baseurl:
 permalink: /:title/
 google_analytics:
